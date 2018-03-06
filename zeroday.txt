@@ -3,5 +3,5 @@
 #
 # BAD SITES START HERE
 #
-127.0.0.1       somebadnet.wrk
-127.0.0.1       dailymail.co.uk
+0.0.0.0 somebadnet.wrk
+0.0.0.0 dailymail.co.uk
