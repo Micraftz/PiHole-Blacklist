@@ -1,0 +1,5 @@
+# Zero Day Blocklist
+# - An emergency Blocklist for PiHole
+#
+# BAD SITES START HERE
+#
