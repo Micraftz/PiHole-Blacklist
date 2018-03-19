@@ -4,5 +4,5 @@
 # BAD SITES START HERE
 #
 0.0.0.0 somebadnet.wrk
-0.0.0.0 dailymail.co.uk
-0.0.0.0 www.dailymail.co.uk
+0.0.0.0 zeroday.co.uk
+0.0.0.0 www.zeroday.co.uk
